@@ -11,7 +11,7 @@ A professional, modern slot machine game built with HTML, CSS, and JavaScript - 
 - Responsive design for mobile and desktop
 
 ## How to Play
-1. Open `final.html` in your web browser
+1. Open `index.html` in your web browser
 2. Enter a deposit amount and click "Deposit"
 3. Choose number of lines (1-3) and bet per line
 4. Click "Spin!" and watch the reels
@@ -25,8 +25,8 @@ A professional, modern slot machine game built with HTML, CSS, and JavaScript - 
 ## Project Structure
 ```
 SlotMachine/
-├── final.html    # Main HTML file with UI and CSS
-├── final.js      # Game logic
+├── index.html    # Main HTML file with UI and CSS
+├── script.js      # Game logic
 └── README.md     # This file
 ```
 
